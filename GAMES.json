@@ -1,0 +1,24 @@
+{
+  "DATA": {
+    "https://archive.org/download/ps4-fpkg-collection-english-a/A%20Hat%20in%20Time%20-%20[US]%20[EN]%20[1.04].pkg": {
+      "title_id": "CUSA09267",
+      "region": "USA",
+      "name": "A Hat in Time",
+      "version": "01.04",
+      "release": "11-15-2013",
+      "size": 7746420736,
+      "min_fw": "9.00",
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09267.png"
+      },
+    "https://github.com/asp11edgr/XCloud4/releases/download/v1.3.0-beta/XCloud4-1.3.0-beta-publico.pkg": {
+      "title_id": "CUSA57220",
+      "region": "USA",
+      "name": "EA SPORTS FC 27",
+      "version": "01.00",
+      "release": "09-25-2026",
+      "size": 44581762170,
+      "min_fw": "9.00",
+      "cover_url": "https://cdn-files.alcyone.so/anonymous/1794721398860-CUSA57220.png?filename=CUSA57220.png"
+    }
+  }
+}
