@@ -1,14 +1,24 @@
 {
   "DATA": {
     "https://nexus-304.snam.tb-cdn.io/dld/5b052ef1-d64c-4b8f-ad6a-ca87b96eb4ad?token=89960867-23a9-4324-9a92-b8611d697404&.pkg": {
-      "title_id": "CUSA04459",
+      "title_id": "CUSA09267",
       "region": "USA",
-      "name": "Watch Dogs 2",
-      "version": "01.00",
-      "release": "11-15-2016",
-      "size": 25057427456,
+      "name": "A Hat in Time",
+      "version": "01.04",
+      "release": "11-15-2013",
+      "size": 7746420736,
       "min_fw": "9.00",
-      "cover_url": null
+      "cover_url": "https://dn710101.ca.archive.org/0/items/ps4-fpkg-collection-english-icons/CUSA09267.png"
+      },
+    "https://cdn-files.alcyone.so/users/87694597-33e1-416b-9f5e-7a1f09ac7722/1790789533284-_Telegram%20PlayStation%20Pulse_%20GTA%20Vice%20City%20TDE%20CUSA26615%20USA%20Game%20v1.07%20CyB1K.pkg?filename=%5BTelegram%20PlayStation%20Pulse%5D%20GTA%20Vice%20City%20TDE%20CUSA26615%20USA%20Game%20v1.07%20CyB1K.pkg": {
+      "title_id": "CUSA57220",
+      "region": "USA",
+      "name": "EA SPORTS FC 27",
+      "version": "01.00",
+      "release": "09-25-2026",
+      "size": 44581762170,
+      "min_fw": "9.00",
+      "cover_url": "https://cdn-files.alcyone.so/anonymous/1794721398860-CUSA57220.png?filename=CUSA57220.png"
     }
   }
 }
