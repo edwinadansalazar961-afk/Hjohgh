@@ -1,12 +1,13 @@
 {
   "DATA": {
     "https://nexus-304.snam.tb-cdn.io/dld/5b052ef1-d64c-4b8f-ad6a-ca87b96eb4ad?token=89960867-23a9-4324-9a92-b8611d697404&.pkg": {
+      "title_id": "CUSA04459",
       "region": "USA",
       "name": "Watch Dogs 2",
-      "version": "1.00",
-      "release": "01-01-2016",
+      "version": "01.00",
+      "release": "11-15-2016",
       "size": 25057427456,
-      "min_fw": null,
+      "min_fw": "9.00",
       "cover_url": null
     }
   }
